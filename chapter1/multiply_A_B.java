@@ -1,3 +1,5 @@
+package chapter1;
+
 import java.util.Scanner;
 
 public class multiply_A_B {

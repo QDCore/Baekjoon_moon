@@ -1,3 +1,5 @@
+package chapter1;
+
 import java.util.Scanner;
 
 public class remain_A_B {

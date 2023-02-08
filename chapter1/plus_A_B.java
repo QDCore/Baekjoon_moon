@@ -1,3 +1,5 @@
+package chapter1;
+
 import java.util.Scanner;
 
 public class plus_A_B {
